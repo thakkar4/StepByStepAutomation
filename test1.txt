@@ -1,0 +1,10 @@
+ Volume in drive C is TI10664600G
+ Volume Serial Number is 0E19-9C92
+
+ Directory of C:\MyGitHub
+
+05/02/2020  05:48 PM    <DIR>          .
+05/02/2020  05:48 PM    <DIR>          ..
+05/02/2020  05:48 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  294,330,290,176 bytes free
